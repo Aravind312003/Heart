@@ -1,0 +1,6 @@
+numpy version==1.26.4
+pandas version==2.1.4
+matplotlib version==3.7.5
+seaborn version==0.13.2
+scipy version==1.11.4
+scikit-learn==1.4.2
